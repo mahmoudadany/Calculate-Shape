@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حساب الشكال</string>
+    <string name="width">العرض</string>
+    <string name="height">الطول</string>
+    <string name="radius">نصف القطر</string>
+    <string name="base">طول القاعده</string>
+    <string name="calculate">احسب</string>
+    <string name="result">النتيجه</string>
+
+    <string-array name="shape_type">
+        <item>اختار شكل</item>
+        <item>المستطيل</item>
+        <item>الدائره</item>
+        <item>المثلث</item>
+    </string-array>
+</resources>

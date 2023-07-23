@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">calculate shape</string>
+    <string name="width">width</string>
+    <string name="height">height</string>
+    <string name="radius">radius</string>
+    <string name="base">base</string>
+    <string name="calculate">calculate</string>
+    <string name="result">result</string>
+
+    <string-array name="shape_type">
+        <item>select shape</item>
+        <item>rectangle</item>
+        <item>cercale</item>
+        <item>triangle</item>
+    </string-array>
+</resources>
